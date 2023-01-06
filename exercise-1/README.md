@@ -8,6 +8,4 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 ## Edits
 > It shall pass someday, surely, without a doubt
 
-Quote break.
-
 [More Information](https://doolsetbangtan.wordpress.com/2018/10/25/everythingoes-with-nell/)
